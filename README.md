@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, sem dijak texasa raziskujem ID tehnologije 👋
 
 <!--
 **rok894/rok894** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
